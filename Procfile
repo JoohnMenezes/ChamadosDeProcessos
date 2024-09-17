@@ -1,0 +1,1 @@
+web: gunicorn primeiro_site:app
